@@ -1,0 +1,190 @@
+.duas-cores{ 
+     font-family: 'Delius', cursive;
+     font-size: 80px;
+     color:#2d5de1;
+     text-align: center;
+     margin-top: 2%;
+    
+     
+
+
+}
+#home{
+ 
+    background: linear-gradient(180deg,#f7f7f7, #e9e5b8,#ffb748);
+    width: 100%;
+    height: 650px;
+    margin-top: 0;
+    text-align: center;
+    align-items: center ;
+    background-image: url(./img/logo.3-removebg-preview.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-color: #ffb748;
+   
+   
+
+}
+
+
+
+#brinquedos{
+    
+    text-align: center;
+    background-color: #ffb748 ;
+    width: 100%;
+    height: 700px;
+    margin-top: 0;
+  box-shadow: 5px,5px,1px,0px rgba(0, 0, 0, 0.1)
+
+}
+
+#combos1{
+    background-color: #02959d ;
+    width: 100%;
+    height: 500px;
+    margin-top: 0px;
+    text-align: center;
+
+}
+
+#combos2{
+    background-color: #f05e35 ;
+    width: 100%;
+    height: 500px;
+    margin-top: 0;
+    text-align: center;
+    display: flex;
+
+    
+
+}
+
+/*
+
+.card{
+    display: inline-block;
+    width: 25%;
+    border-radius: 25%;
+    height: 400px;
+    margin-top: 80px;
+    margin-left: 80px;
+    border:5px #040808;
+    box-shadow: 48px,28px,0px,0px color rgb(0,0 green,0.1 blue);
+    background-color: #02959d;
+    color: #040808;
+    padding: 50px;
+    font-family:'Delius', cursive;
+}
+
+*/
+
+.card{
+   
+    width: 25%;
+    border-radius: 25%;
+    height: 400px;
+    margin: 0% auto; /* Use 'auto' para centralizar horizontalmente */
+    border: 5px solid #040808; /* Adicione 'solid' ao valor do 'border' */
+    box-shadow: 48px 28px 0px 0px rgba(0, 0, 0, 0.1); /* Corrija a declaração do 'box-shadow' */
+    background-color: #02959d;
+    color: #040808;
+    padding: 50px;
+    font-family: 'Delius', cursive;  
+    
+}
+
+/*
+#festas{
+    background-color: #f05e35  ;
+        width: 100%;
+    height: 500px;
+    text-align: center;
+}
+*/
+
+
+img{
+    margin-top: 0;
+    width: 100%;
+    height: 94%;
+  
+    text-align: center;
+    display: flex ;
+    align-items: center;
+
+}
+
+div{
+    padding-top: 0%;
+    padding-bottom: 0%;
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
+p{
+    margin: 0;
+}
+
+.card-img-top{
+    width: 180px;
+    height: 100px;
+}
+
+.titulo{
+    font-family: 'Delius', cursive;
+    text-align: center;
+    font-size: 50px;
+    
+   
+}
+
+footer{
+   
+    margin-top: 0;
+    height: 400px;
+    background-image: linear-gradient(180deg,#02959d, #80e5e5, rgb(242, 248, 247));
+    text-align: center;
+    border-top: 5px solid #ec5328 ;
+}
+
+.logo-rodape{
+    padding: 100px;
+
+}
+.agencia{
+    font-family: 'Delius', cursive;
+    color: rgb(9, 1, 1);
+    font-size: 34px;
+
+}
+.menus{
+    background-color: #f7f7f7;
+}
+
+.imgcombos{
+   height: 50px;
+   width: 50px;
+   display: flex;
+}
+
+.sobrenos{
+    text-align: justify;
+    font-family: 'Delius', cursive;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.imghome{
+    opacity: 40%;
+    width: 1600px;
+    height: 600px;
+
+}
+.whats{
+    position: fixed;
+    bottom: 5px;
+    right: 5px;
+    width: 90px;
+}
+    
